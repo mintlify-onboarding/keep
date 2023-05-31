@@ -1,0 +1,74 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Keep",
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#FA9E34",
+    "light": "#FA9E34",
+    "dark": "#FF9F36"
+  },
+  "topbarCtaButton": {
+    "name": "Login",
+    "url": "https://app.keephq.dev/"
+  },
+  "topbarLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/keephq/keep"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Slack",
+      "icon": "slack",
+      "url": "https://keephq.dev/slack"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://medium.com/keepalerting"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": ["overview/introduction", "overview/quickstart"]
+    },
+    {
+      "group": "Platform",
+      "pages": [
+        "platform/getting-started",
+        {
+          "group": "Core",
+          "pages": [
+            {
+              "group": "Syntax",
+              "pages": [
+                "platform/core/syntax/basic-syntax",
+                "platform/core/syntax/foreach-syntax",
+                "platform/core/syntax/context-syntax",
+                "platform/core/syntax/slate"
+              ]
+            },
+            {
+              "group": "Providers",
+              "pages": [
+                "platform/core/syntax/basic-syntax",
+                "platform/core/syntax/foreach-syntax",
+                "platform/core/syntax/context-syntax",
+                "platform/core/syntax/slate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/keephq/keep"
+  }
+}
