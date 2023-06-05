@@ -58,8 +58,8 @@
               "group": "Providers",
               "pages": [
                 "platform/core/providers/getting-started",
-                "platform/core/syntax/what-is-a-provider",
-                "platform/core/syntax/adding-a-new-provider",
+                "platform/core/providers/what-is-a-provider",
+                "platform/core/providers/adding-a-new-provider",
                 {
                   "group": "Documentation",
                   "pages": [
