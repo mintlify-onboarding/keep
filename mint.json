@@ -90,10 +90,57 @@
                   ]
                 }
               ]
+            },
+            {
+              "group": "Conditions",
+              "pages": [
+                "platform/core/conditions/what-is-a-condition",
+                "platform/core/conditions/threshold",
+                "platform/core/conditions/assert",
+                "platform/core/conditions/stddev"
+              ]
+            },
+            {
+              "group": "Functions",
+              "pages": [
+                "platform/core/functions/what-is-a-function",
+                "platform/core/functions/all",
+                "platform/core/functions/diff",
+                "platform/core/functions/len",
+                "platform/core/functions/split",
+                "platform/core/functions/first",
+                "platform/core/functions/utcnow",
+                "platform/core/functions/to-utc",
+                "platform/core/functions/datetime-compare",
+                "platform/core/functions/encode",
+                {
+                  "group": "Throttles",
+                  "pages": [
+                    "platform/core/throttles/what-is-a-throttle",
+                    "platform/core/throttles/one-until-resolved"
+                  ]
+                },
+                {
+                  "group": "Examples",
+                  "pages": ["platform/core/examples/multi-step-alert"]
+                }
+              ]
+            },
+            {
+              "group": "UI",
+              "pages": ["platform/ui/getting-started"]
             }
           ]
         }
       ]
+    },
+    {
+      "group": "Applications",
+      "pages": ["applications/github"]
+    },
+    {
+      "group": "Deployment",
+      "pages": ["deployment"]
     }
   ],
   "footerSocials": {
