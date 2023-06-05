@@ -81,7 +81,7 @@
                     "platform/core/providers/documentation/pushover-provider",
                     "platform/core/providers/documentation/sentry-provider",
                     "platform/core/providers/documentation/slack-provider",
-                    "platform/core/providers/documentation/snowfloke-provider",
+                    "platform/core/providers/documentation/snowflake-provider",
                     "platform/core/providers/documentation/ssh-provider",
                     "platform/core/providers/documentation/teams-provider",
                     "platform/core/providers/documentation/telegram-provider",
