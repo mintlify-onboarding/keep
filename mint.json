@@ -125,12 +125,12 @@
                   "pages": ["platform/core/examples/multi-step-alert"]
                 }
               ]
-            },
-            {
-              "group": "UI",
-              "pages": ["platform/ui/getting-started"]
             }
           ]
+        },
+        {
+          "group": "UI",
+          "pages": ["platform/ui/getting-started"]
         }
       ]
     },
