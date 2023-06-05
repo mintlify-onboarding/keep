@@ -57,10 +57,38 @@
             {
               "group": "Providers",
               "pages": [
-                "platform/core/syntax/basic-syntax",
-                "platform/core/syntax/foreach-syntax",
-                "platform/core/syntax/context-syntax",
-                "platform/core/syntax/slate"
+                "platform/core/providers/getting-started",
+                "platform/core/syntax/what-is-a-provider",
+                "platform/core/syntax/adding-a-new-provider",
+                {
+                  "group": "Documentation",
+                  "pages": [
+                    "platform/core/providers/documentation/template",
+                    "platform/core/providers/documentation/axiom-provider",
+                    "platform/core/providers/documentation/cloudwatch-logs",
+                    "platform/core/providers/documentation/cloudwatch-metrics",
+                    "platform/core/providers/documentation/console-provider",
+                    "platform/core/providers/documentation/discord-provider",
+                    "platform/core/providers/documentation/elastic-provider",
+                    "platform/core/providers/documentation/http-provider",
+                    "platform/core/providers/documentation/jira-provider",
+                    "platform/core/providers/documentation/mock-provider",
+                    "platform/core/providers/documentation/mysql-provider",
+                    "platform/core/providers/documentation/new-relic-provider",
+                    "platform/core/providers/documentation/opsgenie-provider",
+                    "platform/core/providers/documentation/pagerduty-provider",
+                    "platform/core/providers/documentation/postgresql-provider",
+                    "platform/core/providers/documentation/pushover-provider",
+                    "platform/core/providers/documentation/sentry-provider",
+                    "platform/core/providers/documentation/slack-provider",
+                    "platform/core/providers/documentation/snowfloke-provider",
+                    "platform/core/providers/documentation/ssh-provider",
+                    "platform/core/providers/documentation/teams-provider",
+                    "platform/core/providers/documentation/telegram-provider",
+                    "platform/core/providers/documentation/trello-provider",
+                    "platform/core/providers/documentation/zenduty-provider"
+                  ]
+                }
               ]
             }
           ]
